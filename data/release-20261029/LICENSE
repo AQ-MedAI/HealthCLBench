@@ -1,0 +1,25 @@
+HealthCLBench Dataset License
+
+The HealthCLBench dataset files in this directory, including the CSV and JSONL
+representations, are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License (CC BY-NC-SA 4.0).
+
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Full legal terms: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Attribution: HealthCLBench, AQ-MedAI
+Dataset source: https://huggingface.co/datasets/AQ-MedAI/HealthCLBench
+
+When sharing or adapting this dataset, provide appropriate attribution, link to
+the license, and indicate changes, as required by the license. Do not imply
+endorsement by the dataset creators.
+
+The licensed material may not be used for commercial purposes. If you share
+adapted material, apply the same license or a Creative Commons-compatible
+license, as required by the full legal terms. Do not impose additional legal
+or technological restrictions on uses permitted by the license.
+
+This notice applies to the dataset, not the evaluation framework code, which
+remains licensed under Apache License 2.0. The license does not waive privacy
+rights or authorize use of third-party material beyond the rights held by the
+licensor. No warranties are provided; see the full legal terms.

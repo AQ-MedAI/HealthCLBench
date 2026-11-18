@@ -1,0 +1,67 @@
+{
+  "dataset_version": "release-20261029",
+  "cases": 1103,
+  "clusters": 328,
+  "rubrics": 4931,
+  "source_csv_sha256": "28f9c724d33a68036e170c32f5a3c912450ac92e4fbb3d898b93f4c24b443aaa",
+  "jsonl_sha256": "4947d61ef16a0603e2d4948378df3363d3b36f065414c653e4d32dc495c50ba9",
+  "messages_and_rubrics_unchanged": true,
+  "cluster_mapping": "Source CSV cluster_id matches the numeric suffix of the verified public JSONL cluster ID for every case.",
+  "real_model_calls": 0,
+  "offline_arithmetic": {
+    "synthetic_votes_only": true,
+    "model_calls": 0,
+    "dataset_sha256": "be1f05e01b5da94e1f8570cc6bee68ab46c1024bfbdf15ace4ab27e14115d5e4",
+    "case_comparisons": 4412,
+    "scenarios": {
+      "all_pass": {
+        "case_mean_100": "100.0000",
+        "cluster_mean_100": "100.0000",
+        "n_expected_cases": 1103,
+        "n_expected_clusters": 328,
+        "failed_cases": 0,
+        "unresolved_rubrics": 0,
+        "zero_cases": 0,
+        "zero_clusters": 0
+      },
+      "all_fail": {
+        "case_mean_100": "0.0000",
+        "cluster_mean_100": "0",
+        "n_expected_cases": 1103,
+        "n_expected_clusters": 328,
+        "failed_cases": 0,
+        "unresolved_rubrics": 0,
+        "zero_cases": 1103,
+        "zero_clusters": 328
+      },
+      "all_unknown": {
+        "case_mean_100": "0.0000",
+        "cluster_mean_100": "0",
+        "n_expected_cases": 1103,
+        "n_expected_clusters": 328,
+        "failed_cases": 0,
+        "unresolved_rubrics": 4931,
+        "zero_cases": 1103,
+        "zero_clusters": 328
+      },
+      "mixed": {
+        "case_mean_100": "6.9279963735267452402538531278331822302810516772439",
+        "cluster_mean_100": "0.80829268292682926829268292682926829268292682926829",
+        "n_expected_cases": 1103,
+        "n_expected_clusters": 328,
+        "failed_cases": 0,
+        "unresolved_rubrics": 1640,
+        "zero_cases": 666,
+        "zero_clusters": 316
+      }
+    },
+    "passed": true
+  },
+  "offline_runner": {
+    "clusters": 3,
+    "cases": 3,
+    "simulated_calls": 66,
+    "resume_extra_calls": 0,
+    "full_query_complete": true
+  }
+}
