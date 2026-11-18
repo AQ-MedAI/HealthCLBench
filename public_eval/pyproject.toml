@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "HealthCLBench"
+version = "0.1.0"
+description = "Platform-independent rubric and cluster scoring for HealthCLBench"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+hf = ["huggingface_hub>=0.34.1,<2"]
+
+[project.scripts]
+hclbench = "hclbench.__main__:main"
+hclbench-run = "hclbench.runner:main"
+hclbench-report = "hclbench.report:main"
+hclbench-download = "hclbench.download:main"
+
+[tool.setuptools.packages.find]
+include = ["hclbench*"]
