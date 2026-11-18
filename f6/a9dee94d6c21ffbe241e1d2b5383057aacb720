@@ -1,0 +1,25 @@
+public_eval/README_ZH.md
+  s_3cec84c7b713ed::t_e3a6b7d0ce58d5 157,179
+README_ZH.md
+  s_3cec84c7b713ed::t_e3a6b7d0ce58d5 223-224,228,230,236
+README.md
+  s_3cec84c7b713ed::t_e3a6b7d0ce58d5 221-222,226,228,234
+public_eval/RELEASE_CHECKLIST.md
+  s_3cec84c7b713ed::t_e3a6b7d0ce58d5 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f6a9dee94d6c21ffbe241e1d2b5383057aacb720",
+  "prompts": {},
+  "sessions": {
+    "s_3cec84c7b713ed": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "3a5ca817-eb34-43c6-b375-8bb71fe68a3c",
+        "model": "antchat/GLM-5.3"
+      },
+      "human_author": "Tommy Yang <tingzai.yang@gmail.com>"
+    }
+  }
+}
