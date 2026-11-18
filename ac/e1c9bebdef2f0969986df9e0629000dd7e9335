@@ -1,0 +1,75 @@
+public_eval/.gitignore
+  s_3cec84c7b713ed::t_d1dc22b3241a4a 1-11
+public_eval/DATA_FORMAT.md
+  s_3cec84c7b713ed::t_6b208b3b27ad64 1-72
+public_eval/hclbench/planning.py
+  s_3cec84c7b713ed::t_49be93d2192fb9 1-33
+public_eval/LICENSE
+  s_3cec84c7b713ed::t_bda3918c1319a9 1-201
+public_eval/README.md
+  s_3cec84c7b713ed::t_f5537e31f15d2a 1-161
+public_eval/hclbench/report.py
+  s_3cec84c7b713ed::t_927f47d183484c 1-121
+public_eval/tests/test_dataset_io.py
+  s_3cec84c7b713ed::t_2f5de7656b29d0 1-57
+public_eval/config.example.json
+  s_3cec84c7b713ed::t_b9581638dfd0ef 1-12
+public_eval/hclbench/__init__.py
+  s_3cec84c7b713ed::t_6c7a349cdf0449 1-3
+public_eval/hclbench/download.py
+  s_3cec84c7b713ed::t_9b0d963ed1afe9 1-96
+public_eval/tests/test_reporting.py
+  s_3cec84c7b713ed::t_6302d1ae1a13f2 1-72
+public_eval/hclbench/runner.py
+  s_3cec84c7b713ed::t_46371c6a134b9a 1-257
+public_eval/README_ZH.md
+  s_3cec84c7b713ed::t_0477715f2f70f3 1-199
+public_eval/examples/demo.py
+  s_3cec84c7b713ed::t_72c906cd200def 1-65
+public_eval/tests/test_judge_protocol.py
+  s_3cec84c7b713ed::t_100312d10e84e1 1-40
+public_eval/examples/verify_manifest.py
+  s_3cec84c7b713ed::t_ffbd054a65f6c4 1-73
+public_eval/hclbench/dataset_io.py
+  s_3cec84c7b713ed::t_fef58df62b4810 1-140
+public_eval/pyproject.toml
+  s_3cec84c7b713ed::t_3e43ef650aa815 1-24
+public_eval/hclbench/import_snapshot.py
+  s_3cec84c7b713ed::t_c621da7082a24d 1-94
+public_eval/hclbench/scoring.py
+  s_3cec84c7b713ed::t_ac8aef97c0368c 1-227
+public_eval/hf.example.json
+  s_3cec84c7b713ed::t_866bccbcd05f21 1-6
+.github/workflows/public-eval.yml
+  s_3cec84c7b713ed::t_b692658a5fffb2 1-27
+public_eval/tests/test_import_snapshot.py
+  s_3cec84c7b713ed::t_47d693c088cc4f 1-60
+public_eval/JUDGE_PROTOCOL.md
+  s_3cec84c7b713ed::t_e587a538e1df4d 1-46
+public_eval/tests/test_download.py
+  s_3cec84c7b713ed::t_9d28a0b1f72e03 1-113
+public_eval/RELEASE_CHECKLIST.md
+  s_3cec84c7b713ed::t_a5cf1728ef1c7a 1-88
+public_eval/hclbench/__main__.py
+  s_3cec84c7b713ed::t_831742d72d382d 1-166
+public_eval/tests/test_scoring.py
+  s_3cec84c7b713ed::t_e4ff955f42aa35 1-155
+public_eval/tests/test_runner.py
+  s_3cec84c7b713ed::t_2ecaaafb2ef063 1-149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ace1c9bebdef2f0969986df9e0629000dd7e9335",
+  "prompts": {},
+  "sessions": {
+    "s_3cec84c7b713ed": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "3a5ca817-eb34-43c6-b375-8bb71fe68a3c",
+        "model": "antchat/GLM-5.3"
+      },
+      "human_author": "玄琛 <xuanchen.yt@alibaba-inc.com>"
+    }
+  }
+}
