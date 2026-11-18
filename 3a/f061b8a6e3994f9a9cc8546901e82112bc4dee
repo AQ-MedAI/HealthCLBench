@@ -1,0 +1,37 @@
+LEGAL.md
+  s_3cec84c7b713ed::t_cf1fab3a2b0ea0 1-7
+README_ZH.md
+  s_3cec84c7b713ed::t_72e5251ff4f3da 1-281
+data/release-20261029/HealthCLBench.jsonl
+  s_3cec84c7b713ed::t_d3f4ef2d1135e3 1-1103
+data/release-20261029/manifest.json
+  s_3cec84c7b713ed::t_8c2be92b5dc403 1-67
+README.md
+  s_3cec84c7b713ed::t_1e5ae9bc006e88 1-279
+.gitignore
+  s_3cec84c7b713ed::t_919cd4418e7fd4 1-9
+data/release-20261029/LICENSE
+  s_3cec84c7b713ed::t_740160036b3e42 1-25
+data/release-20261029/HealthCLBench.csv
+  s_3cec84c7b713ed::t_1f66b382413aba 1-1104
+data/release-20261029/README.md
+  s_3cec84c7b713ed::t_75a71c3329b109 1-37
+.gitattributes
+  s_3cec84c7b713ed::t_2e63bd034ba3ba 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3af061b8a6e3994f9a9cc8546901e82112bc4dee",
+  "prompts": {},
+  "sessions": {
+    "s_3cec84c7b713ed": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "3a5ca817-eb34-43c6-b375-8bb71fe68a3c",
+        "model": "antchat/GLM-5.3"
+      },
+      "human_author": "玄琛 <xuanchen.yt@alibaba-inc.com>"
+    }
+  }
+}
