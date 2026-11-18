@@ -41,7 +41,7 @@ These references provide a usability comparison, not a statement of implementati
   were visually checked in the owner-supplied manuscript on 2026-10-29.
 
 The latest successful smoke used Qwen3.6-35B-A3B inference and
-Kimi-K2.6/Qwen3.6-35B-A3B/GLM-5.2 judging, 3 workers, 240-second socket timeout,
+Kimi K2.6/Qwen3.6-35B-A3B/GLM-5.2 judging, 3 workers, 240-second socket timeout,
 8,192-token limits, one retry after 10 seconds. The larger initial attempt had
 transport/incomplete-output failures. This is functional evidence, not full-scale
 reliability, independent judging, clinical validation or paper reproduction.

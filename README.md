@@ -218,20 +218,20 @@ The table below reproduces Table 6 of the manuscript. The seven general-purpose 
 
 | System | Full Case | Query Case | Δ Case | Full G | Query G | Δ G |
 |---|---:|---:|---:|---:|---:|---:|
-| GPT-6-Astra | **75.03** | 44.16 | +30.87 | **60.42** | 21.45 | +38.97 |
-| Claude-Opus-5-5 | 68.21 | 36.46 | +31.76 | 49.50 | 14.78 | +34.72 |
+| GPT-6 Astra | **75.03** | 44.16 | +30.87 | **60.42** | 21.45 | +38.97 |
+| Claude Opus 5.5 | 68.21 | 36.46 | +31.76 | 49.50 | 14.78 | +34.72 |
 | Ant Afu | 61.99 | 39.69 | +22.30 | 43.30 | 17.75 | +25.56 |
 | Qwen3.8-27B | 57.31 | 40.52 | +16.79 | 36.44 | 17.03 | +19.41 |
 | GLM-5.3 | 52.29 | 33.68 | +18.61 | 29.20 | 12.33 | +16.87 |
-| Kimi-K3 | 48.46 | 31.66 | +16.80 | 24.77 | 9.74 | +15.03 |
+| Kimi K3 | 48.46 | 31.66 | +16.80 | 24.77 | 9.74 | +15.03 |
 | DeepSeek-V4.1-Flash | 45.71 | 33.01 | +12.71 | 23.67 | 12.43 | +11.24 |
-| Gemini-3.8-Flash | 42.77 | 30.95 | +11.83 | 21.79 | 10.92 | +10.87 |
+| Gemini 3.8 Flash | 42.77 | 30.95 | +11.83 | 21.79 | 10.92 | +10.87 |
 
 Main observations:
 
 - all eight systems have the same case and cluster ranking under Full;
 - Full–Query differences range from **+11.83 to +31.76 case points** and **+10.87 to +38.97 cluster points**;
-- GPT-6-Astra leads both Full metrics, followed by Claude-Opus-5-5 and Ant Afu;
+- GPT-6 Astra leads both Full metrics, followed by Claude Opus 5.5 and Ant Afu;
 - human review of 700 Full responses from the original seven-model evaluation yields **90.5% pooled human–judge agreement** at the rubric-item level. This is judge agreement, not answer accuracy.
 
 Deltas use unrounded means, so subtracting displayed values may differ by 0.01. These are **paper-reported results**, not a claim that this release has fully reproduced them. Differences describe score changes under the reported settings.
