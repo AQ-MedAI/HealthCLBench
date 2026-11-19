@@ -261,7 +261,7 @@ See the [Chinese usage guide](public_eval/README_ZH.md) and [technical guide](pu
 If you find HealthCLBench useful in your research, please consider citing our work:
 
 ```bibtex
-@misc{yang2026healthclbenchevaluatingcontextlearninghealth,
+@misc{yang2026healthclbench,
   title={HealthCLBench:Evaluating Context Learning in Health Conversations through Controlled Case Clusters},
   author={Ting Yang and Zijing Hong and Chengjie Wang and Peng Wei and Chunxiao Guo and Yun Yue and Xurui Li and Jinqun Guan and Zixiao Chen and Ant Group},
   year={2026},

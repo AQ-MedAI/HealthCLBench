@@ -263,7 +263,7 @@ HealthCLBench/
 如果 HealthCLBench 对您的研究有所帮助，欢迎引用我们的工作：
 
 ```bibtex
-@misc{yang2026healthclbenchevaluatingcontextlearninghealth,
+@misc{yang2026healthclbench,
   title={HealthCLBench:Evaluating Context Learning in Health Conversations through Controlled Case Clusters},
   author={Ting Yang and Zijing Hong and Chengjie Wang and Peng Wei and Chunxiao Guo and Yun Yue and Xurui Li and Jinqun Guan and Zixiao Chen and Ant Group},
   year={2026},
